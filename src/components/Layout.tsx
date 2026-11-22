@@ -78,7 +78,7 @@ export default function Layout() {
               ]
             }
           ]}
-          legal="© 2026 Klinik Mustopa. Seluruh hak cipta dilindungi."
+          legal="© 2026 . veyrostd Seluruh hak cipta dilindungi."
           toTopText="Ke atas"
           phone=""
         />
