@@ -22,8 +22,8 @@ export default function Layout() {
           brand="Klinik Mustopa"
           email="info@klinikmustopa.com"
           address={[
-            "Jl. Kesehatan No. 45",
-            "Jakarta Selatan"
+            "Bandung Barat",
+            "Ngamprah"
           ]}
           columns={[
             {
