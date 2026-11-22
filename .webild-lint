@@ -1,0 +1,9 @@
+src/components/Layout.tsx
+src/components/sections/about/AboutArchCurve.tsx
+src/components/sections/contact/ContactPlumForm.tsx
+src/components/sections/faq/FaqPlusAccordion.tsx
+src/components/sections/features/ServicesNightList.tsx
+src/components/sections/footer/FooterPlumPhone.tsx
+src/components/sections/hero/HeroArchPoster.tsx
+src/components/sections/testimonial/TestimonialPhotoQuote.tsx
+src/pages/HomePage.tsx
